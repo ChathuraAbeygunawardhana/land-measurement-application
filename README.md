@@ -1,4 +1,4 @@
-```markdown
+
 # Land Measurement Application
 
 ## Overview
@@ -68,4 +68,3 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute as per the license terms.
-```
